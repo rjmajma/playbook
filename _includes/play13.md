@@ -7,13 +7,14 @@ When we collaborate in the open and publish our data publicly we can improve Gov
 #### checklist
 1. Offer users a mechanism to report bugs and issues, and be responsive to these reports
 2. Provide datasets to the public, in their entirety, through bulk downloads and APIs (application programming interfaces)
-3. Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver
+3. Ensure that the codebase and data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver
 4. Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing
 5. Ensure that we maintain the rights to all data developed by third parties in such a manner that is releasable and reusable at no cost to the public
 6. Ensure that we maintain contractual rights to all custom software developed by third parties in such a manner that is publishable and reusable at no cost
 7. When appropriate, create an API for third parties to interact with the service directly
 8. When appropriate, publish source code of projects or components online 
 9. When appropriate, share your development process and progress publicly
+10. If necessary, update cybersecurity and code management policies so that they do not inhibit the open source development process
 
 #### key questions
 - How are you collecting user feedback for bugs and issues?
